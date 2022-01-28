@@ -174,21 +174,17 @@ statsmodels==0.8.0
 sympy==1.1.1
 tables==3.4.2
 tblib==1.3.2
-terminado @ file:///D:/bld/terminado_1620873117550/work
 testpath==0.3.1
 toolz==0.9.0
-tornado @ file:///D:/bld/tornado_1610094881553/work
+tornado>=4.1.1
 traitlets==4.3.2
 trio==0.11.0
 typing==3.6.2
-typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1638334978229/work
 unicodecsv==0.14.1
 urllib3==1.22
-voila @ file:///home/conda/feedstock_root/build_artifacts/voila_1640187161116/work
+voila >0.2.1
 wcwidth==0.1.7
 webencodings==0.5.1
-websocket-client @ file:///home/conda/feedstock_root/build_artifacts/websocket-client_1638949723239/work
-websockets @ file:///D:/bld/websockets_1622491479545/work
 Werkzeug==0.14.1
 widgetsnbextension==3.1.0
 win-unicode-console==0.5
